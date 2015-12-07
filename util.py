@@ -1,2 +1,2 @@
-def func():
-   return 4
+def func(x):
+   return x+4
